@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## My name is **Alexander Capraro** and I am a SOC Analyst at **ReliaQuest**. I have a passion for all things cyber security and am excited to share my insights and experiences with you on this blog.
